@@ -3,54 +3,54 @@
     {
       "id" : 0,
       "email": "anu.3otgonjargal@gmail.com",
-      "firstName": "Anu",
-      "lastName": "Otgonjargal",
-      "userName": "anuuo",
+      "firstname": "Anu",
+      "lastname": "Otgonjargal",
+      "username": "anuuo",
       "role": "admin",
       "password": "0000"
     },
     {
       "id" : 1,
       "email": "bayalagmaanest@gmail.com",
-      "firstName": "Bayalagmaa",
-      "lastName": "Sofia",
-      "userName": "sofia",
+      "firstname": "Bayalagmaa",
+      "lastname": "Sofia",
+      "username": "sofia",
       "role": "admin",
       "password": "1111"
     },
     {
             "id" : 2,
       "email": "nambarjin@gmail.com",
-      "firstName": "Nambarjin",
-      "lastName": "Tumenbayar",
-      "userName": "lambo",
+      "firstname": "Nambarjin",
+      "lastname": "Tumenbayar",
+      "username": "lambo",
       "role": " moderator",
       "password": "2222"
     },
     {
       "id" : 3,
       "email": "blabla",
-      "firstName": "Tugsbayasgalan",
-      "lastName": "blabla",
-      "userName": "tugsuu",
+      "firstname": "Tugsbayasgalan",
+      "lastname": "blabla",
+      "username": "tugsuu",
       "role": "moderator",
       "password": "3333"
     },
     {
       "id" : 4,
       "email": "blabla",
-      "firstName": "Misheel",
-      "lastName": "Chingun",
-      "userName": "misheel",
+      "firstname": "Misheel",
+      "lastname": "Chingun",
+      "username": "misheel",
       "role": "moderator",
       "password": "4444"
     },
     {
       "id" : 5,
       "email": "blabla",
-      "firstName": "blabla",
-      "lastName": "blabla",
-      "userName": "tulgaa",
+      "firstname": "blabla",
+      "lastname": "blabla",
+      "username": "tulgaa",
       "role": "moderator",
       "password": "5555"
     }
