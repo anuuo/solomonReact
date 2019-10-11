@@ -53,6 +53,51 @@
       "username": "tulgaa",
       "role": "moderator",
       "password": "5555"
+    },
+    {
+      "id" : 0,
+      "email": "anu.3otgonjargal@gmail.com",
+      "firstname": "Anu",
+      "lastname": "Otgonjargal",
+      "username": "anuuo",
+      "role": "admin",
+      "password": "0000"
+    },
+    {
+      "id" : 0,
+      "email": "anu.3otgonjargal@gmail.com",
+      "firstname": "Anu",
+      "lastname": "Otgonjargal",
+      "username": "anuuo",
+      "role": "admin",
+      "password": "0000"
+    },
+    {
+      "id" : 0,
+      "email": "anu.3otgonjargal@gmail.com",
+      "firstname": "Anu",
+      "lastname": "Otgonjargal",
+      "username": "anuuo",
+      "role": "admin",
+      "password": "0000"
+    },
+    {
+      "id" : 0,
+      "email": "anu.3otgonjargal@gmail.com",
+      "firstname": "Anu",
+      "lastname": "Otgonjargal",
+      "username": "anuuo",
+      "role": "admin",
+      "password": "0000"
+    },
+    {
+      "id" : 0,
+      "email": "anu.3otgonjargal@gmail.com",
+      "firstname": "Anu",
+      "lastname": "Otgonjargal",
+      "username": "anuuo",
+      "role": "admin",
+      "password": "0000"
     }
   ]
 }
